@@ -17,5 +17,6 @@ OX inv
 	},
 
 
-Privew: https://streamable.com/m7b8s0
+Preview: https://streamable.com/m7b8s0
 
+org. ONLY QBX - https://github.com/Birdy113/ns-pedalbrick
